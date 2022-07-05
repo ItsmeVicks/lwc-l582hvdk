@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/itsmevicks.lwc-l582hvdk",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve AjYru1pQ0aJGj8NfbWRL --open"
+  }
+}
